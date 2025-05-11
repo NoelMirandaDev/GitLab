@@ -8,8 +8,8 @@
 |-------------------|----------------|
 | **Release Manager** | Noel Miranda  |
 | **Developer 1**     | Robert Minkler |
-| **Developer 2**     | Developer Name |
-| **Developer 3**     | Developer Name |
+| **Developer 2**     | Noel Miranda |
+| **Developer 3**     | Robert Minkler |
 
 ---
 
